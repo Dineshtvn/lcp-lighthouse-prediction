@@ -26,6 +26,7 @@ The repository provides the complete implementation, datasets, and reproducibili
 ├── Raw_Lighthouse_Crawl_Datasets.zip
 ├── README.md
 ├── requirements.txt
+├── figures.zip
 
 ```
 
